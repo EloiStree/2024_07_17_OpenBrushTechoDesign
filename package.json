@@ -1,0 +1,15 @@
+{
+    "name": "be.eloistree.openbrushtechoroom",
+    "version": "0.0.1",
+    "displayName": "Techno Room scan with Open Brush",
+    "description": "Technocite room scan from Open Brush",
+    "unity": "2020.3",
+    "unityRelease": "0f1",
+    
+    "author": {
+      "name": "Eloi Stree",
+      "email": "eloistree@gmail.com",
+      "url": "https://github.com/EloiStree"
+    }
+    
+  }
